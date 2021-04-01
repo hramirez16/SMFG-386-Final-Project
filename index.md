@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## SMFG-386 Lab 6-Physical Viepoint of the Semester Project
 
-You can use the [editor on GitHub](https://github.com/SeanArend/Injection-Molder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Team Members: Sean Arend, Hector Ramirez, Aaron Jones, Jose Quintana
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Spring 2021,California State University, Chico 
 
-### Markdown
+# Table of Contents:
+1. Introduction
+2. Bill Of Materials
+3. Physical Viewpoint
+4. Wiring Diagram
+5. Backend Flowchart (Detailed)
+6. Frontend Flowchart
+7. CAD Embed
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 1. Introduction
 
-```markdown
-Syntax highlighted code block
+The goal of this exercise is to finalize many of the details needed to construct an injection molding machine that had previously been conceptualized and discussed. This is the stage where members of the building team are supposed to make sure that parts that will be purchased will all work together flawlessly. This is important because it may cut down on errors that may arise later, when building the physical machine.
 
-# Header 1
-## Header 2
-### Header 3
+## 2. Bill Of Materials
 
-- Bulleted
-- List
+[Bill Of Materials.png.xlsx](https://github.com/hramirez16/SMFG-386-LAB-6/files/6241456/Bill.Of.Materials.png.xlsx)
 
-1. Numbered
-2. List
+## 3. Physical Viewpoint
 
-**Bold** and _Italic_ and `Code` text
+![Balloons1](https://user-images.githubusercontent.com/80607574/113252840-3acacf00-9279-11eb-8532-d6e3d5e5724e.jpg)
 
-[Link](url) and ![Image](src)
-```
+![Balloons2](https://user-images.githubusercontent.com/80607574/113252869-43bba080-9279-11eb-8a78-7c5171b7e746.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 4. Wiring Diagram
 
-### Jekyll Themes
+![Extruder Circuits](https://user-images.githubusercontent.com/80607574/113252970-68177d00-9279-11eb-9526-228ee1986bcf.PNG)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeanArend/Injection-Molder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 5. Backend Flowchart
 
-### Support or Contact
+![Back](https://user-images.githubusercontent.com/80607574/113253096-a319b080-9279-11eb-860e-8d37ba39dac9.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 6. Frontend Flowchart
+
+![Front](https://user-images.githubusercontent.com/80607574/113253150-b593ea00-9279-11eb-8ec6-29aab0a6767b.jpg)
+
+## 7. CAD Embed
+
+<div class="sketchfab-embed-wrapper">
+    <iframe title="Injection Molder Assembly" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/a9d2bfdc74574008968b90028a32a86b/embed">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/injection-molder-assembly-a9d2bfdc74574008968b90028a32a86b?utm_medium=embed&utm_campaign=share-popup&utm_content=a9d2bfdc74574008968b90028a32a86b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Injection Molder Assembly</a>
+        by <a href="https://sketchfab.com/seanarend?utm_medium=embed&utm_campaign=share-popup&utm_content=a9d2bfdc74574008968b90028a32a86b" target="_blank" style="font-weight: bold; color: #1CAAD9;">seanarend</a>
+        on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a9d2bfdc74574008968b90028a32a86b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
