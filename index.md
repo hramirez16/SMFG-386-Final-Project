@@ -22,6 +22,10 @@ The goal of this exercise is to finalize many of the details needed to construct
 
 ![Brainstorm 1](https://user-images.githubusercontent.com/80607574/118383867-a90fea80-b5b6-11eb-9f77-aadf4e9ce2b8.PNG)
 
+![Brainstorm 2](https://user-images.githubusercontent.com/80607574/118383949-5682fe00-b5b7-11eb-98d2-d86aa46f03ef.PNG)
+
+![Brainstorm 3](https://user-images.githubusercontent.com/80607574/118383954-5be04880-b5b7-11eb-980d-6b50e2788e4a.PNG)
+
 ## 3. Bill Of Materials
 
 [Bill Of Materials.png.xlsx](https://github.com/hramirez16/SMFG-386-LAB-6/files/6241456/Bill.Of.Materials.png.xlsx)
