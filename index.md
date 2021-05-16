@@ -18,11 +18,13 @@ Spring 2021,California State University, Chico
 The goal of this exercise is to finalize many of the details needed to construct an injection molding machine that had previously been conceptualized and discussed. This is the stage where members of the building team are supposed to make sure that parts that will be purchased will all work together flawlessly. This is important because it may cut down on errors that may arise later, when building the physical machine.
 
 ## 2. Brainstorming 
-
+Block Diagram
 ![Brainstorm 1](https://user-images.githubusercontent.com/80607574/118383867-a90fea80-b5b6-11eb-9f77-aadf4e9ce2b8.PNG)
 
+Lgical/functional View point
 ![Brainstorm 2](https://user-images.githubusercontent.com/80607574/118383949-5682fe00-b5b7-11eb-98d2-d86aa46f03ef.PNG)
 
+Capabiltites Database 
 ![Brainstorm 3](https://user-images.githubusercontent.com/80607574/118383954-5be04880-b5b7-11eb-980d-6b50e2788e4a.PNG)
 
 ## 3. Bill Of Materials and Legend
