@@ -7,12 +7,11 @@ Spring 2021,California State University, Chico
 # Table of Contents:
 1. Introduction
 2. Brainstorming
-3. Bill Of Materials
+3. Bill Of Materials and Legend
 4. Physical Viewpoint
-5. Wiring Diagram
-6. Backend Flowchart (Detailed)
-7. Frontend Flowchart
-8. CAD Embed
+5. Backend Flowchart (Detailed)
+6. Frontend Flowchart
+7. CAD Embed
 
 ## 1. Introduction
 
@@ -26,29 +25,27 @@ The goal of this exercise is to finalize many of the details needed to construct
 
 ![Brainstorm 3](https://user-images.githubusercontent.com/80607574/118383954-5be04880-b5b7-11eb-980d-6b50e2788e4a.PNG)
 
-## 3. Bill Of Materials
+## 3. Bill Of Materials and Legend
 
 [Bill Of Materials.png.xlsx](https://github.com/hramirez16/SMFG-386-LAB-6/files/6241456/Bill.Of.Materials.png.xlsx)
-
-## 4. Physical Viewpoint
 
 ![Balloons1](https://user-images.githubusercontent.com/80607574/113252840-3acacf00-9279-11eb-8532-d6e3d5e5724e.jpg)
 
 ![Balloons2](https://user-images.githubusercontent.com/80607574/113252869-43bba080-9279-11eb-8a78-7c5171b7e746.jpg)
 
-## 5. Wiring Diagram
+## 4. Physical Viewpoint
 
 ![Extruder Circuits](https://user-images.githubusercontent.com/80607574/113252970-68177d00-9279-11eb-9526-228ee1986bcf.PNG)
 
-## 6. Backend Flowchart
+## 5. Backend Flowchart
 
 ![Back](https://user-images.githubusercontent.com/80607574/113253096-a319b080-9279-11eb-860e-8d37ba39dac9.png)
 
-## 7. Frontend Flowchart
+## 6. Frontend Flowchart
 
 ![Front](https://user-images.githubusercontent.com/80607574/113253150-b593ea00-9279-11eb-8ec6-29aab0a6767b.jpg)
 
-## 8. CAD Embed
+## 7. CAD Embed
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/UzUNsAMRM2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
