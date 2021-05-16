@@ -41,6 +41,8 @@ The goal of this exercise is to finalize many of the details needed to construct
 
 ## 7. CAD Embed
 
+<iframe width="800" height="450" src="https://www.youtube.com/embed/UzUNsAMRM2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div class="sketchfab-embed-wrapper">
     <iframe title="Injection Molder Assembly" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="800" height="450" src="https://sketchfab.com/models/a9d2bfdc74574008968b90028a32a86b/embed">
     </iframe>
@@ -51,8 +53,7 @@ The goal of this exercise is to finalize many of the details needed to construct
     </p>
 </div>
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/UzUNsAMRM2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 <iframe src="https://goodiecl.sirv.com/Spins/Extrusion%20Screw/Extrusion%20Screw.spin" width="800" height="450" frameborder="0" allowfullscreen></iframe>
 
-<iframe src="https://goodiecl.sirv.com/Spins/Molding/Molding.spin" width="100%" height="100%" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://goodiecl.sirv.com/Spins/Molding/Molding.spin" width="800" height="450" frameborder="0" allowfullscreen></iframe>
