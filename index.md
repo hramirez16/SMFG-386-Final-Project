@@ -29,7 +29,7 @@ Capabiltites Database
 
 ## 3. Bill Of Materials and Legend
 
-[Bill Of Materials.png.xlsx](https://github.com/hramirez16/SMFG-386-LAB-6/files/6241456/Bill.Of.Materials.png.xlsx)
+[Bill.Of.Materials.xlsx](https://github.com/hramirez16/SMFG-386-LAB-6/files/6488668/Bill.Of.Materials.xlsx)
 
 ![Balloons1](https://user-images.githubusercontent.com/80607574/113252840-3acacf00-9279-11eb-8532-d6e3d5e5724e.jpg)
 
