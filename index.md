@@ -51,12 +51,12 @@ The goal of this exercise is to finalize many of the details needed to construct
     </p>
 </div>
 
-<!DOCTYPE html>
-<html>
-<body>
-
-<iframe width="800" height="450" src="https://youtu.be/UzUNsAMRM2g%22%3E
-</iframe>
-
-</body>
-</html>
+<div class="sketchfab-embed-wrapper">
+    <iframe title="Injection Molder Assembly" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="fullscreen; autoplay; vr" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="800" height="450" src="https://www.youtube.com/watch?v=UzUNsAMRM2g">
+    </iframe>
+   <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+        <a href="https://sketchfab.com/3d-models/injection-molder-assembly-a9d2bfdc74574008968b90028a32a86b?utm_medium=embed&utm_campaign=share-popup&utm_content=a9d2bfdc74574008968b90028a32a86b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Injection Molder Assembly</a>
+        by <a href="https://www.youtube.com/watch?v=UzUNsAMRM2g" target="_blank" style="font-weight: bold; color: #1CAAD9;">seanarend</a>
+        on <a href="https://www.youtube.com/watch?v=UzUNsAMRM2g" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+    </p>
+</div>
