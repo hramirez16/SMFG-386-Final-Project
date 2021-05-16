@@ -35,7 +35,7 @@ The goal of this exercise is to finalize many of the details needed to construct
 
 ## 4. Physical Viewpoint
 
-![Extruder Circuits](https://user-images.githubusercontent.com/80607574/113252970-68177d00-9279-11eb-9526-228ee1986bcf.PNG)
+![Physical](https://user-images.githubusercontent.com/80607574/118384722-5ede3780-b5bd-11eb-8d6a-215165b25180.jpg)
 
 ## 5. Backend Flowchart
 
