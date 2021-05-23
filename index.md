@@ -1,4 +1,4 @@
-![Heater Wiring](https://user-images.githubusercontent.com/80607574/119274148-5ee4c580-bbc3-11eb-9aad-1b205eb0f482.JPG)
+
 ## SMFG-386 Lab 6-Physical Viepoint of the Semester Project
 
 Team Members: Sean Arend, Hector Ramirez, Aaron Jones, Jose Quintana
