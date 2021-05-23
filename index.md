@@ -9,9 +9,10 @@ Spring 2021,California State University, Chico
 2. Brainstorming
 3. Bill Of Materials and Legend
 4. Physical Viewpoint
-5. Backend Flowchart (Detailed)
-6. Frontend Flowchart
-7. CAD Embed
+5. Arduino Code
+6. Backend Flowchart (Detailed)
+7. Frontend Flowchart
+8. CAD Embed
 
 ## 1. Introduction
 
@@ -32,7 +33,7 @@ Capabiltites Database
 ## 3. Bill Of Materials and Legend
 Shown below are diagrams depicting where parts of the machine are located. Each of the two-digit alphanumeric codes that accompanies each of the pointer lines represents a line in the Bill of Materials that has information about the part and where it may be purchased. Some of the parts in the Bill of Materials are hidden or too small to be shown in the diagram and thus could not be labelled. To make it easier, however, the spreadsheet is divided into different sections that are representative of different areas of the machine. This is done to make it easier to determine which parts belong with which sub-assemblies.
 
-[Bill.Of.Materials.xlsx](https://github.com/hramirez16/SMFG-386-LAB-6/files/6488668/Bill.Of.Materials.xlsx)
+[Bill_Of_Materials.xlsx](https://github.com/hramirez16/SMFG-386-LAB-6/files/6528607/Bill_Of_Materials.xlsx)
 
 ![Balloons1](https://user-images.githubusercontent.com/80607574/113252840-3acacf00-9279-11eb-8532-d6e3d5e5724e.jpg)
 
@@ -43,17 +44,21 @@ In the diagram below, there is a physical viewpoint of how the internal electron
 
 ![Physical](https://user-images.githubusercontent.com/80607574/118384722-5ede3780-b5bd-11eb-8d6a-215165b25180.jpg)
 
-## 5. Backend Flowchart
+## 5. Arduino Code
+Note: Github would not allow us to upload individual ".ino" files, so they are in a zipped folder instead.
+[Arduino_Codes.zip](https://github.com/hramirez16/SMFG-386-LAB-6/files/6528602/Arduino_Codes.zip)
+
+## 6. Backend Flowchart
 This flowchart was not a requirement of the project, but was made so that all of the members of the design team could understand what the machine needed to be able to do. It is more in-depth than the Front End Flowchart in the next section, but shows more of the logic that will have to go on in the programming of the machine.
 
 ![Back](https://user-images.githubusercontent.com/80607574/113253096-a319b080-9279-11eb-860e-8d37ba39dac9.png)
 
-## 6. Frontend Flowchart
+## 7. Frontend Flowchart
 This simpler flowchart shows how the user is to interact with the machine. This flowchart also showcases surface-level functionality of the machine, making it an easier diagram to communicate to a given 3rd party.
 
 ![Front](https://user-images.githubusercontent.com/80607574/113253150-b593ea00-9279-11eb-8ec6-29aab0a6767b.jpg)
 
-## 7. CAD Embed
+## 8. CAD Embed
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/UzUNsAMRM2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
