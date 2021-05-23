@@ -49,7 +49,7 @@ In the diagram below, there is a physical viewpoint of how the internal electron
 ![Heater Wiring](https://user-images.githubusercontent.com/80607574/119274164-715eff00-bbc3-11eb-9e6a-4d654e33ab19.JPG)
 
 ## 5. Motor Sizing
-Calculations to detemmine the motor size were abotained via the link https://www.orientalmotor.com/motor-sizing/ballLeadScrew-sizing.html
+Using an online calculator tool (https://www.orientalmotor.com/motor-sizing/ballLeadScrew-sizing.html#QuickReport), we were able to determine what type of motor would work for our purposes. Using the weights of the parts within the machine, a clamping force of about 1 ton, and a safety factor of 1.5, the calculator showed that we would need a motor that could output 113.4 lb-in of torque. We discovered that the high-torque variant of the standard NEMA 34 motor can output roughly 115.1 lb-in of torque. Though it may seem like a small difference between the required torque and actual torque, it should also be considered that the safety factor of 1.5 still exists. Barring extreme circumstances, the NEMA 34 motor should be able to work for this application.
 ![Motor Sizing calculation](https://user-images.githubusercontent.com/80607574/119273950-33151000-bbc2-11eb-99df-e1b64ed38ed5.JPG)
 
 ## 6. Arduino Code
