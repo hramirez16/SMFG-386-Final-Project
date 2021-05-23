@@ -49,6 +49,7 @@ This flowchart was not a requirement of the project, but was made so that all of
 ![Back](https://user-images.githubusercontent.com/80607574/113253096-a319b080-9279-11eb-860e-8d37ba39dac9.png)
 
 ## 6. Frontend Flowchart
+This simpler flowchart shows how the user is to interact with the machine. This flowchart also showcases surface-level functionality of the machine, making it an easier diagram to communicate to a given 3rd party.
 
 ![Front](https://user-images.githubusercontent.com/80607574/113253150-b593ea00-9279-11eb-8ec6-29aab0a6767b.jpg)
 
