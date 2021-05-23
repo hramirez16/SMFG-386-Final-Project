@@ -1,3 +1,4 @@
+![Heater Wiring](https://user-images.githubusercontent.com/80607574/119274148-5ee4c580-bbc3-11eb-9aad-1b205eb0f482.JPG)
 ## SMFG-386 Lab 6-Physical Viepoint of the Semester Project
 
 Team Members: Sean Arend, Hector Ramirez, Aaron Jones, Jose Quintana
@@ -43,7 +44,9 @@ Shown below are diagrams depicting where parts of the machine are located. Each 
 ## 4. Physical Viewpoint
 In the diagram below, there is a physical viewpoint of how the internal electronics should work and be wired. This was done to make it easier to do the actual wiring once the physical parts have been gathered. Perfecting this stage can be quite challenging, however, as there will always be unforeseen problems that will arise as a machine is being built for the first time. Thankfully, tools like this can help cut down on the amount of problems by eliminating some of the more obvious ones that can be found in the virtual representation.
 
-![Physical](https://user-images.githubusercontent.com/80607574/118384722-5ede3780-b5bd-11eb-8d6a-215165b25180.jpg)
+![Updated Physical viewpoint](https://user-images.githubusercontent.com/80607574/119274213-a8cdab80-bbc3-11eb-99e8-a5a4e1af37f3.JPG)
+
+![Heater Wiring](https://user-images.githubusercontent.com/80607574/119274164-715eff00-bbc3-11eb-9e6a-4d654e33ab19.JPG)
 
 ## 5. Motor Sizing
 Calculations to detemmine the motor size were abotained via the link https://www.orientalmotor.com/motor-sizing/ballLeadScrew-sizing.html
